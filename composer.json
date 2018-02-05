@@ -1,0 +1,10 @@
+{
+    "name": "samuelbartag/contact-apislimpdo",
+    "description": "A simple API for studies",
+    "keywords": ["slim", "pdo", "api"],
+    "license": "MIT",
+    "require": {
+        "slim/slim": "^3.9",
+        "slim/pdo": "^1.10"
+    }
+}
